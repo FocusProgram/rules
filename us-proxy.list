@@ -1,0 +1,7 @@
+# Users need to proxy for US services
+
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,augmentcode.com
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,navicat.com
+DOMAIN-SUFFIX,groq.com

@@ -1,0 +1,9 @@
+# Users need to proxy for services
+
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,webshare.io
+DOMAIN-SUFFIX,diabrowser.com
+DOMAIN-SUFFIX,git.sr.ht
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,speedtest.net
